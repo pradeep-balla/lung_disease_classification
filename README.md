@@ -23,16 +23,6 @@ The challenge addressed in this project was the need for a fast and accurate met
    - Hyperparameter tuning was performed using Grid Search to optimize the performance of the models.
    - Data augmentation techniques were employed to increase the diversity and robustness of the training data.
 
-5. **Web Application**:
-   - A fully functional web application was created to make the classification system accessible to end-users.
-   - The web app allows users to upload chest X-ray images for real-time classification and provides intuitive visualizations of the results.
-
-## Key Features
-- **Deep Learning Models**: Training and fine-tuning of multiple state-of-the-art models.
-- **Ensemble Learning**: Combining model predictions to improve accuracy and robustness.
-- **Web Application**: User-friendly interface for real-time image upload and disease classification.
-- **Robust Preprocessing**: Image resizing, normalization, and data augmentation for improved model performance.
-
 ## Results
 The ensemble model demonstrated superior performance, achieving high accuracy in classifying lung diseases from chest X-rays. The web application provides an efficient and user-friendly platform for real-time diagnostics.
 
