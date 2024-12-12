@@ -8,5 +8,8 @@ My Approach: To solve this problem, I started by assembling a dataset of chest X
 I trained several state-of-the-art deep learning models, including ResNet50, Xception, MobileNetV2, VGG16, VGG19, and InceptionV3, on the dataset. These models were fine-tuned to improve their performance on the specific task of lung disease classification.
 
 To further enhance accuracy, I developed an ensemble model that combined the strengths of the ResNet50, Xception, and VGG16 models. I also explored different ensemble techniques like stacking, boosting, and voting to find the most effective approach. Hyperparameter tuning was performed using Grid Search, and data augmentation techniques were employed to increase the diversity and robustness of the training data.
+
 ![image](https://github.com/user-attachments/assets/1f802bbd-c644-4f5f-8a49-4078978b808a)
+
+
 ![image](https://github.com/user-attachments/assets/a257cac7-9d19-40f5-8569-a848f7c04129)
